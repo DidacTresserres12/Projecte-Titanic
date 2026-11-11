@@ -1,0 +1,5 @@
+Model,Default CV F1 (train),Best Params,"Best CV F1 (train, val)",Mean Train F1 (CV),Test F1,Grid Search Time (s)
+LogisticRegression,,,,,,
+KNN,,,,,,
+SVM_linear,,,,,,
+SVM_rbf,,,,,,

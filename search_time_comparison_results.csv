@@ -1,0 +1,4 @@
+Method,Best Params,Best CV F1,Test F1,Elapsed (s)
+RandomizedSearch,"{'clf__solver': 'liblinear', 'clf__C': 1}",0.7728455878260545,0.7761194029850746,0.39012646675109863
+HalvingRandomSearch,"{'clf__solver': 'liblinear', 'clf__C': 0.01}",0.735701754385965,0.7368421052631579,0.4989936351776123
+GridSearch,"{'clf__C': 1, 'clf__solver': 'liblinear'}",0.7728455878260545,0.7761194029850746,0.3890650272369385
